@@ -38,8 +38,7 @@ $ python3 helloworld.py -a IOSIPAD
 [HelloWorld](https://discord.gg/5jqbutB)
 
 ## Author
-Xc0de / [@dafazulfikar](https://github.com/404notsurrender)
-Zero Cool / [@crash-override404](https://github.com/crash-override404)  
+Xc0de / [@dafazulfikar](https://github.com/404notsurrender) 
 Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)  
 Alin / [@muhmursalind](https://github.com/muhmursalind)
 
